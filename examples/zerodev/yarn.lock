@@ -51,10 +51,10 @@
   resolved "https://registry.yarnpkg.com/@zerodev/ecdsa-validator/-/ecdsa-validator-5.1.0.tgz#74bd4f6f2df9ff32560ed70109ece24b08d8492f"
   integrity sha512-mjoRXn/XuKEeyXXjapZMnExNeNnqbRbEHJA/wMhY1pHb+p+29E9oY3JSTgsOKF9ICLsAzD9ZxQTAQJLtrfP2fQ==
 
-"@zerodev/presets@^5.1.4":
-  version "5.1.4"
-  resolved "https://registry.yarnpkg.com/@zerodev/presets/-/presets-5.1.4.tgz#0ec567973dfa2622a2228e49c51f15fefb5b9d2a"
-  integrity sha512-V5n5afSobyHWbNUOiEPZuV4VwQSMq42iYeOXZuV9GCsx8oZozIVDgrvgr9Jd7qnbyKliv8dPf3/o7+VOwpQWnA==
+"@zerodev/presets@^5.3.3":
+  version "5.3.3"
+  resolved "https://registry.yarnpkg.com/@zerodev/presets/-/presets-5.3.3.tgz#6af6891fba265438f7e765fdad6e9f6c2a653e78"
+  integrity sha512-wUT3zP0+6uoC0y9YCwr/UdkJRYxfcdFxf4y2z9C6GYQgTEDA1kFXUpnRKd93hbF67y4nRSA0cnhpiWjBlMyPLw==
 
 "@zerodev/sdk@^5.1.7":
   version "5.1.7"
