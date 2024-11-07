@@ -56,10 +56,12 @@
   resolved "https://registry.yarnpkg.com/@zerodev/presets/-/presets-5.1.4.tgz#0ec567973dfa2622a2228e49c51f15fefb5b9d2a"
   integrity sha512-V5n5afSobyHWbNUOiEPZuV4VwQSMq42iYeOXZuV9GCsx8oZozIVDgrvgr9Jd7qnbyKliv8dPf3/o7+VOwpQWnA==
 
-"@zerodev/sdk@^5.1.7":
-  version "5.1.7"
-  resolved "https://registry.yarnpkg.com/@zerodev/sdk/-/sdk-5.1.7.tgz#022c886a45c67ca0078e9929677f51bfa41f9913"
-  integrity sha512-FWH88PwRMDD2N6XneYYWhfFV6x8Q3OB197UQ9UXPCWp+gfjQ64FNG5ScnC5Habyo7vr4+0vY//3eQWDcQ2381A==
+"@zerodev/sdk@^5.3.22":
+  version "5.3.26"
+  resolved "https://registry.yarnpkg.com/@zerodev/sdk/-/sdk-5.3.26.tgz#df90c726f5bb15e893e6696e8e31c5cebaa7eca2"
+  integrity sha512-wWwE82wX1oeb1B9jJ7E2WKvX183/KZ1joWTi+CvTlHIXqe61A0jdJwZ5/crz8CqO5Ji6hulDOQBLERZrGuvfxQ==
+  dependencies:
+    semver "^7.6.0"
 
 abitype@1.0.0:
   version "1.0.0"
@@ -75,6 +77,11 @@ permissionless@^0.0.34:
   version "0.0.34"
   resolved "https://registry.yarnpkg.com/permissionless/-/permissionless-0.0.34.tgz#479ee4c02068c6982a308df7a64351eea626a00d"
   integrity sha512-lP59+7VmjLO7dPctH69kgcJ8evxGkrjQ9hruOA+7ymWvUMiuXAfVxvXSWCV+lg67N2TGs1JneEuhwK+iI3kPvA==
+
+semver@^7.6.0:
+  version "7.6.3"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.3.tgz#980f7b5550bc175fb4dc09403085627f9eb33143"
+  integrity sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==
 
 tslib@^2.6.2:
   version "2.6.2"
